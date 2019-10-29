@@ -1,0 +1,4 @@
+#Fri Oct 25 20:49:34 BRT 2019
+base.0=C\:\\Users\\Felipe\\AndroidStudioProjects\\Palindromo2\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

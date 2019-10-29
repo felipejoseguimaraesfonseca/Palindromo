@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Palindromo</string>
+    <string name="palindromo">É um Palíndromo?</string>
+    <string name="write">Escreva a palavra aqui</string>
+    <string name="verify">Verificar</string>
+</resources>
